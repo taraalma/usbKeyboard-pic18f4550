@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/luisemmanuel/MPLABProjects/usbKeyboard/_build/usbKeyboard/default",
+  "command": "/opt/microchip/xc8/v4.00/bin/xc8-cc -DXPRJ_default=default -D__18F4550__ -D__DEBUG=1 -c -mcpu=18F4550 -mdfp=/home/luisemmanuel/.mchp_packs/Microchip/PIC18Fxxxx_DFP/1.8.178/xc8 -fno-short-double -fno-short-float -memi=wordwrite -O0 -maddrqual=ignore -mwarn=-3 -msummary=-psect,-class,+mem,-hex,-file -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mno-default-config-bits -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -o CMakeFiles/usbKeyboard_default_default_XC8_compile.dir/home/luisemmanuel/MPLABProjects/usbKeyboard/main.c.p1 -c /home/luisemmanuel/MPLABProjects/usbKeyboard/main.c",
+  "file": "/home/luisemmanuel/MPLABProjects/usbKeyboard/main.c",
+  "output": "/home/luisemmanuel/MPLABProjects/usbKeyboard/_build/usbKeyboard/default/CMakeFiles/usbKeyboard_default_default_XC8_compile.dir/home/luisemmanuel/MPLABProjects/usbKeyboard/main.c.p1"
+}
+]

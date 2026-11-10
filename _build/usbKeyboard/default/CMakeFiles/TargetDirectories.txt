@@ -1,0 +1,4 @@
+/home/luisemmanuel/MPLABProjects/usbKeyboard/_build/usbKeyboard/default/CMakeFiles/usbKeyboard_default_default_XC8_compile.dir
+/home/luisemmanuel/MPLABProjects/usbKeyboard/_build/usbKeyboard/default/CMakeFiles/usbKeyboard_default_image_EaaGTcEU.dir
+/home/luisemmanuel/MPLABProjects/usbKeyboard/_build/usbKeyboard/default/CMakeFiles/edit_cache.dir
+/home/luisemmanuel/MPLABProjects/usbKeyboard/_build/usbKeyboard/default/CMakeFiles/rebuild_cache.dir
